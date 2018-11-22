@@ -10,6 +10,6 @@
 - [SwitchTo](https://github.com/AniketNeogy/Selenium_Java/tree/master/SeleniumPractice/src/SwitchTo)  ```Window and frame handling using SwitchTo in Selenium```
 - [cssSelectors](https://github.com/AniketNeogy/Selenium_Java/tree/master/SeleniumPractice/src/cssSelectors)  ```Sample script explaning the working of cssSelectors```
 - [keypress](https://github.com/AniketNeogy/Selenium_Java/tree/master/SeleniumPractice/src/keypress)  ```KeyPress Actions Sample```
-- usefulGenericMethods  ```Generic methods such as - Taking screenshots, Highlighting elements and scrolling among a few utilities written```
+- [usefulGenericMethods](https://github.com/AniketNeogy/Selenium_Java/tree/master/SeleniumPractice/src/usefulGenericMethods)  ```Generic methods such as - Taking screenshots, Highlighting elements and scrolling among a few utilities written```
 - [utilities](https://github.com/AniketNeogy/Selenium_Java/tree/master/SeleniumPractice/src/utilities)  ```Some more Selenium Utilities```
 - [waitTypes](https://github.com/AniketNeogy/Selenium_Java/tree/master/SeleniumPractice/src/waitTypes)  ```Example showing the use of Explicit and Implicit Wait```
